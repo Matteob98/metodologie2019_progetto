@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+
+html,
+body 
+{
+  height: 100%;
+}
+
+body 
+{
+  background-color: #f5f5f5;
+}
+
+.form-group
+{
+	text-align: center;
+	width: 100%;
+  	max-width: 700px;
+  	margin: auto;
+}
+
+.introduzioneLb
+{
+	font-size: 16px;
+	font-style: italic;
+}
+
+.datiUtenteLb
+{
+	color : white;
+}
+
+.form-play
+{
+	text-align: center;
+	width: 100%;
+  	max-width: 700px;
+  	margin: auto;
+  	padding-top: 30px;
+}

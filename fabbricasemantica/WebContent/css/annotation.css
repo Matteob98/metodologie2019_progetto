@@ -1,0 +1,98 @@
+@charset "ISO-8859-1";
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+ 
+  background-color: #f5f5f5;
+}
+
+.form-annotation 
+{
+  width: 100%;
+  margin: auto;
+}
+
+.form-group
+{
+	text-align: center;
+}
+
+.form-control
+{
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  width: 100%;
+  max-width: 700px;
+  padding: 10px;
+  font-size: 16px;
+  margin: auto;
+  text-align: center;
+}
+
+.istruction-lb
+{
+	font-size: 20px;
+	text-align: center;
+}
+
+.title-lb
+{
+	font-size: 30px;
+	font-style: bold;
+	font-weight: bold;
+	text-align: center;
+}
+
+.parolaLb
+{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.descrizioneLb
+{
+	font-size: 16px;
+	font-style: italic;
+	text-align: center;
+}
+
+.senseLb
+{
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.custom-control
+{
+	width: 50%;
+ 	max-width: 700px;
+  	margin: auto;
+  	align-items: center;
+  	padding: 5px;
+}
+
+.row
+{
+  	margin: auto;
+  	align-items: center;
+  	padding: 5px;
+  	text-align: center;
+}
+
+.col
+{
+	align-items: center;
+}
+
+.datiUtenteLb
+{
+	color : white;
+}

@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+.form-signup 
+{
+  width: 100%;
+  margin: auto;
+}
+
+.form-signup .form-control 
+{
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.form-signup input[type="email"] 
+{
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.row
+{
+  	margin: auto;
+}
+
+
+.submit-row
+{
+	margin: auto;
+  	align-items: center;
+  	text-align: center;
+}
